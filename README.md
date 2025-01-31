@@ -2,7 +2,7 @@
 Sprign 2025
 Prof. Ramírez
 
-**Welcome to CSULA Advanced Biostatistics **
+*Welcome to CSULA Advanced Biostatistics *
 
 Below you will find links to workshop and other useful datasets. 
 
