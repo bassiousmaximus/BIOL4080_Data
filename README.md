@@ -1,5 +1,5 @@
 # BIOL4080_Data
-Sprign 2025
+Spring 2025
 Prof. Ramírez
 
 *Welcome to CSULA Advanced Biostatistics*
